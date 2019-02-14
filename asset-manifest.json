@@ -1,14 +1,13 @@
 {
-  "main.css": "/demoReact/static/css/main.93627886.chunk.css",
-  "main.js": "/demoReact/static/js/main.ad1144d7.chunk.js",
-  "main.js.map": "/demoReact/static/js/main.ad1144d7.chunk.js.map",
-  "static/js/1.13eeb203.chunk.js": "/demoReact/static/js/1.13eeb203.chunk.js",
-  "static/js/1.13eeb203.chunk.js.map": "/demoReact/static/js/1.13eeb203.chunk.js.map",
+  "main.css": "/demoReact/static/css/main.a4611214.chunk.css",
+  "main.js": "/demoReact/static/js/main.06403465.chunk.js",
+  "main.js.map": "/demoReact/static/js/main.06403465.chunk.js.map",
+  "static/js/1.f081e92a.chunk.js": "/demoReact/static/js/1.f081e92a.chunk.js",
+  "static/js/1.f081e92a.chunk.js.map": "/demoReact/static/js/1.f081e92a.chunk.js.map",
   "runtime~main.js": "/demoReact/static/js/runtime~main.0b5cec82.js",
   "runtime~main.js.map": "/demoReact/static/js/runtime~main.0b5cec82.js.map",
-  "static/media/logo.svg": "/demoReact/static/media/logo.5d5d9eef.svg",
-  "static/css/main.93627886.chunk.css.map": "/demoReact/static/css/main.93627886.chunk.css.map",
+  "static/css/main.a4611214.chunk.css.map": "/demoReact/static/css/main.a4611214.chunk.css.map",
   "index.html": "/demoReact/index.html",
-  "precache-manifest.90e1632eb99be50413749d6fcc63f623.js": "/demoReact/precache-manifest.90e1632eb99be50413749d6fcc63f623.js",
+  "precache-manifest.a9798bb3b757af24a632ab08d6ea4bec.js": "/demoReact/precache-manifest.a9798bb3b757af24a632ab08d6ea4bec.js",
   "service-worker.js": "/demoReact/service-worker.js"
 }
